@@ -1,1 +1,1 @@
-![Executive Overview](Sales & Customer Behavior.PNG)
+![Executive Overview](Sales%20%26%20Customer%20Behavior.PNG)
